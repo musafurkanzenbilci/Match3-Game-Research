@@ -78,7 +78,7 @@ Our constraints briefly imply that we should minimize the matches while keeping 
 # TO BE CONTINUED WITH
 - How to ensure there will be enough possible matches for the goal of the level
 - How to test the game
-- What would be the strategy for solution if I want to create an AI agent
+- What would be the strategy for solving the game board if I want to create an AI agent
 
 
 ## Getting Started
