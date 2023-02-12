@@ -75,7 +75,10 @@ Our constraints briefly imply that we should minimize the matches while keeping 
 - For **All Random Case**, at first sight, it made me think why did I bother this much **rather than simply instantiating a random board and fixing matches** :D. But it is too random and we **cannot balance the number of potential matches and the goal or difficulty of the level**.
 - I see the balance in **0.5** and **0.25** cases. Maybe we can stretch the range to 0.6 and 0.2 and choose a value between this range based on the difficulty of the level.
 
-# TO BE CONTINUED
+# TO BE CONTINUED WITH
+- How to ensure there will be enough possible matches for the goal of the level
+- How to test the game
+- What would be the strategy for solution if I want to create an AI agent
 
 
 ## Getting Started
