@@ -81,13 +81,17 @@ Our constraints briefly imply that we should minimize the matches while keeping 
 - What would be the strategy for solving the game board if I want to create an AI agent
 
 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
 ## Getting Started
 
 To run the projects, you need to have the following tools and libraries installed on your computer:
 
 - Unity Editor
 
-To run a project, simply navigate to its directory and follow the instructions in the project's readme.
 
 ## Contributing
 
