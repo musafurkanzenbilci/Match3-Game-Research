@@ -1,6 +1,6 @@
 # Match3 Game Research
 
-This repository contains a collection of various problems and possible solutions to them while building a Match3 Game like Candy Crush, Royal Match, etc.
+This repository contains a collection of various problems and possible solutions to them while building a Match3 Game like Candy Crush, Royal Match, Lost Jewels, etc.
 
 ## Story
 I am passionate about games since my childhood and always wanted to be part of the creation of these games. Because sometimes I admire the design like minesweeper and sometimes I only wanted to meet(!) those guys who made the game like League of Legends.
